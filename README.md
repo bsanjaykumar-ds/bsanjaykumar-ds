@@ -1,11 +1,15 @@
 # Hi there 👋 I'm Sanjay Kumar
 
+📢 Currently Open to Opportunities
+   **I am seeking a Data Analyst position**
+   
 📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
 🔍 Passionate about turning raw data into meaningful insights
 
 ## 🚀 About Me
 
+* 🎓 Currently a completed my data analyst course in qtree 
 * 📈 Interested in Data Analytics and Business Intelligence
 * 🐍 Working with Python, Pandas, NumPy, and Matplotlib
 * 🗄️ Skilled in SQL for data querying and analysis
@@ -14,9 +18,9 @@
 
 ### Languages & Tools
 
-* Python
+* Python 
 * SQL
-* Excel
+* Excel VBA
 * Power BI
 * Tableau
 * Pandas
@@ -24,15 +28,12 @@
 * Matplotlib
 * Seaborn
 * Git & GitHub
-
-## 📂 Featured Projects
-
-
+* jupyter
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Your LinkedIn Link]
-* Email: (bsanjaykumar.work@gmail)
+* LinkedIn: www.linkedin.com/in/sanjaykumar-data-science
+* Email: bsanjaykumar.work@gmail
 
 
 
