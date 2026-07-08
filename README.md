@@ -34,6 +34,6 @@
 
 * LinkedIn: www.linkedin.com/in/sanjaykumar-data-science
 * Email: bsanjaykumar.work@gmail
-
-
+  
+[view my resume](sanjaykumar-ds/B.sanjaykumar_data analyst.pdf)
 
